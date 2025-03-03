@@ -4,10 +4,9 @@
 GitHub candidate search for potential new candidates. User can accept or dey and then look at a list of accepted candidates.
 
 ## Features
-Cypress Testing
-React Code
-E2E Testing
-Component Testing
+Api Token
+React
+Typescript
 
 # Installation
 npm i
